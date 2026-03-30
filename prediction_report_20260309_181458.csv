@@ -1,0 +1,11 @@
+coin,current_price,predicted_price,expected_change_%,model_mae
+binancecoin,638.83,640.93,0.33,6.6509
+bitcoin,70430.21,69466.91,-1.37,603.0085
+cardano,0.27,0.27,-0.0,0.0073
+dogecoin,0.09,0.09,-1.91,0.0024
+ethereum,2059.67,2023.17,-1.77,34.464
+litecoin,55.16,54.57,-1.08,0.8804
+polkadot,1.52,1.51,-0.46,0.0402
+ripple,1.4,1.37,-2.33,0.0242
+solana,87.66,87.54,-0.13,1.8436
+tron,0.29,0.29,-0.14,0.0015

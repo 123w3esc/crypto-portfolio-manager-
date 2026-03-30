@@ -1,0 +1,11 @@
+coin,avg_daily_return,volatility,risk_level,latest_daily_return,daily_crash,daily_spike
+binancecoin,0.0009,0.02774,Low,0.01278,False,False
+bitcoin,-3e-05,0.02341,Low,0.02566,False,False
+cardano,-0.00165,0.04245,Medium,0.03718,False,False
+dogecoin,-0.00017,0.04718,Medium,0.06957,False,False
+ethereum,0.00101,0.03927,Medium,0.02162,False,False
+litecoin,-0.00063,0.0368,Medium,0.00776,False,False
+polkadot,-0.00151,0.0465,Medium,0.01346,False,False
+ripple,-0.00024,0.03869,Medium,0.03441,False,False
+solana,-3e-05,0.04084,Medium,0.01468,False,False
+tron,0.00073,0.01678,Low,-0.00411,False,False
